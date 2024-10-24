@@ -1,0 +1,54 @@
+SQL Interview questions:-
+--------------------------
+
+ 1. What are the differences between char(n) and varchar2(n)?
+ 2. What are the differences between date and timestamp?
+ 3. Whydoweusenational character set data types like nChar(n), nVarchar2(n) nCLOB?
+ 4. Howcan wemaintain multimedia objects like images, audios, videos in ORACLE?
+ 5. What is the difference between BFILE and BLOB?
+ 6. Refer all commands of SQL 5 sub languages and remember every command name,
+ purpose, syntax and minimum 1 example
+ 7. Is column alias temporary or permanent?
+ 8. Is table alias temporary or permanent?
+ 9. What are the differences between TRUNCATE and DELETE?
+ 10. What are the differences between DROP and TRUNCATE?
+ 11. What is the difference between INSERT and INSERT ALL?
+ 12. After COMMIT can we rollback it?
+ 13. After COMMIT can we flashback it?
+ 14. What is DUAL?
+ 15. What is the difference between NVL() and NVL2()?
+ 16. What is the difference between RANK() and DENSE_RANK()?
+ 17. What is the difference between COUNT(*) and COUNT(<any_number>)?
+ 18. What is the difference between count(*) and count(<column_name>)?
+ 19. What is the difference between MAX() and GREATEST()?
+ 20. What is the difference between MIN() and LEAST()?
+21. What is the difference between REPLACE() and TRANSLATE()?
+ 22. How can we get the current system date?
+ 23. How can we get the current system time from sysdate?
+ 24. How can we get the current system date and time?
+ 25. What is the purpose of To_Char()? When is it useful?
+ 26. What is the purpose of To_Date()? When is it useful?
+ 27. What are the aggregate functions / group functions provided by ORACLE SQL?
+ 28. What are the analytic functions provided by ORACLE SQL?
+ 29. How can we copy a table?
+ 30. How can we copy table structure?
+ 31. How can we copy the records?
+ 32. What are the CLAUSES of the SELECT command?
+ 33. What is the execution order of CLAUSES of SELECT command?
+ 34. Can we use column alias in GROUP BY? If YES, why YES? If NO, why NO?
+ 35. Can we use column alias in ORDER BY? If YES, why YES? If NO, why NO?
+ 36. What is the purpose of GROUP BY?
+ 37. What is the purpose of HAVING?
+ 38. What are the differences between WHERE and HAVING?
+ 39. What is the difference between ROLLUP() and CUBE()?
+ 40. What is the purpose of JOINS?
+ 41. Refer all Types of Joins with Examples.
+ 42. What are the SET operators provided by ORACLE SQL?
+43. What are the differences between UNION and UNION ALL?
+ 44. What are the differences between SET OPERATORS and JOINS?
+ 45. What is a subquery?
+ 46. Why do we write subquery?
+ 47. What is a correlated subquery?
+ 48. What is an Inline View?
+ 49. Can we write a DML command as a subquery? If NO, why? If YES, why?
+ 50. Find 2nd max salary.
